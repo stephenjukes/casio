@@ -1,3 +1,3 @@
 # casio
 
-View at: https://rawgit.com/stephenjukes/casio/master/index.html
+<a href="https://rawgit.com/stephenjukes/casio/master/index.html">View in browser here</a>
